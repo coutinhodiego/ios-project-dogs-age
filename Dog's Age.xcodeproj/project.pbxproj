@@ -14,6 +14,7 @@
 		9331F66E21D5B3CC005017CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9331F66C21D5B3CC005017CB /* LaunchScreen.storyboard */; };
 		9331F67921D5B3CC005017CB /* Dog_s_AgeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9331F67821D5B3CC005017CB /* Dog_s_AgeTests.swift */; };
 		9331F68421D5B3CC005017CB /* Dog_s_AgeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9331F68321D5B3CC005017CB /* Dog_s_AgeUITests.swift */; };
+		9331F69221D5B556005017CB /* petcaramelo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9331F69121D5B556005017CB /* petcaramelo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9331F67F21D5B3CC005017CB /* Dog's AgeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dog's AgeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9331F68321D5B3CC005017CB /* Dog_s_AgeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dog_s_AgeUITests.swift; sourceTree = "<group>"; };
 		9331F68521D5B3CC005017CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9331F69121D5B556005017CB /* petcaramelo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = petcaramelo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		9331F66221D5B3C9005017CB /* Dog's Age */ = {
 			isa = PBXGroup;
 			children = (
+				9331F69121D5B556005017CB /* petcaramelo.png */,
 				9331F66321D5B3C9005017CB /* AppDelegate.swift */,
 				9331F66521D5B3C9005017CB /* ViewController.swift */,
 				9331F66721D5B3C9005017CB /* Main.storyboard */,
@@ -232,6 +235,7 @@
 				9331F66E21D5B3CC005017CB /* LaunchScreen.storyboard in Resources */,
 				9331F66B21D5B3CC005017CB /* Assets.xcassets in Resources */,
 				9331F66921D5B3C9005017CB /* Main.storyboard in Resources */,
+				9331F69221D5B556005017CB /* petcaramelo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
